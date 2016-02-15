@@ -1,2 +1,2 @@
 # floyd
-Implemented floyd algorithm in C++.
+Floyd algorithm implementation in C++.
